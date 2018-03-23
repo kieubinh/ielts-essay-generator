@@ -1,0 +1,17 @@
+sentence01: topic-sentence
+sentence02: answer-sentence
+sentence03: main-idea1
+sentence04: supporting1-idea1
+sentence05: example1-supporting1-idea1
+sentence06: supporting2-idea1
+sentence07: example1-supporting2-idea1
+sentence08: supporting3-idea1
+sentence09: example1-supporting3-idea1
+sentence10: main-idea2
+sentence11: supporting1-idea2
+sentence12: example1-supporting1-idea2
+sentence13: supporting2-idea2
+sentence14: example1-supporting2-idea2
+sentence15: supporting3-idea2
+sentence16: example1-supporting3-idea2
+sentence17: conclusion-sentence
